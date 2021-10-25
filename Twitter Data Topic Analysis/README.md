@@ -1,4 +1,3 @@
- ![Language](https://img.shields.io/badge/language-python--3.7-blue) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,7 +10,7 @@
  <p align="center">
  Udacity Nanodegree Course Capstone Project
  <br />
- <a href=https://github.com/vineeths96/Data-Engineering-Nanodegree><strong>Explore the repository»</strong></a>
+ <a href=https://github.com/mahhdii/Twitter-Data-Topic-Analysis><strong>Explore the repository»</strong></a>
  <br />
  <br />
  </p>
